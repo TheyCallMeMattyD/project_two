@@ -8,8 +8,10 @@
   
 ## Description
 >Holiday shopping lists made easy!... This webpage allows the user and friends/family to add their personal holiday wish-list. Users can then look at the lists of the OTHER members and sign up to buy their wished-for items. The current user is NOT able to see who has bought gifts on their own list.  
-
+>  
 > https://project-two-gwu.herokuapp.com/  
+>  
+> Contributors: Myself, Sean Hopkins, Ed Sivick, Malcolm Yates, Evan Reid  
   
 ## Table of Contents
 >1. [Title](#Title)
