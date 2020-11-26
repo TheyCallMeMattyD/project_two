@@ -91,5 +91,5 @@ git push heroku main
 ## Questions  
 >Please direct all questions to:  
 >  
->seahopki12@gmail.com  
->Check out my GitHub Profile @ https://github.com/seahopki12 
+>TheMattyD@outlook.com   
+>Check out my GitHub Profile @ https://github.com/TheyCallMeMattyD  
